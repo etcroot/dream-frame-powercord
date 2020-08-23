@@ -1,0 +1,10 @@
+{
+  "name": "Dream Frame",
+  "description": "",
+  "version": "4.03",
+  "author": "Korbs Studio",
+  "license": "MIT",
+  "theme": "DreamFrame.css",
+  "consent": "false",
+  "splashTheme": "splash.css"
+}
